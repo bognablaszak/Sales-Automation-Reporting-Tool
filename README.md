@@ -3,6 +3,18 @@
 An advanced automation tool designed to streamline the process of sales data analysis. It handles everything from raw data ingestion to generating tailored PDF reports for specific business categories. The project utilizes a structured Excel architecture, including automated data cleaning, dynamic pivot caches, and professional reporting layouts.
 
 The UI was designed to be user-friendly and approachable for non-technical staff.
+<table border="0">
+  <tr>
+    <td width="60%">
+      <p align="center"><b>Live Application Demo</b></p>
+      <img src="assets/showcase.gif" alt="Showcase GIF">
+    </td>
+    <td width="40%">
+      <p align="center"><b>Sample PDF Output</b></p>
+      <img src="assets/sample_raport.png" alt="Sample PNG">
+    </td>
+  </tr>
+</table>
 
 ## Technical Highlights
 * **Automated Data ETL:** Imports and cleans multiple `.txt` files from a user-specified directory using iterative loops and the `Dir` function.
