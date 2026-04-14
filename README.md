@@ -50,9 +50,9 @@ Set pc = ActiveWorkbook.PivotCaches.Create( _
 ### 3. Performance Optimization
 To ensure a smooth user experience, the tool utilizes system-level optimizations:
 
-Application.ScreenUpdating = False: Eliminates screen flickering during heavy data processing.
+ - Application.ScreenUpdating = False: Eliminates screen flickering during heavy data processing.
 
-Application.EnableEvents = False: Prevents unnecessary trigger executions during data import.
+ - Application.EnableEvents = False: Prevents unnecessary trigger executions during data import.
 
 ### How to Run
 1. Download the sales_raport_creator.xlsm file.
