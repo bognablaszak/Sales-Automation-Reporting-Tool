@@ -1,4 +1,4 @@
-# Sales Report Creator 
+# Sales Raport Creator 
 
 An advanced automation tool designed to streamline the process of sales data analysis. It handles everything from raw data ingestion to generating tailored PDF reports for specific business categories. The project utilizes a structured Excel architecture, including automated data cleaning, dynamic pivot caches, and professional reporting layouts.
 
