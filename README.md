@@ -28,7 +28,7 @@ If pos > 0 Then
     ws.Cells(i, "F").Value = Trim(Left(pelnyTekst, pos - 1))
     ws.Cells(i, "G").Value = Trim(Mid(pelnyTekst, pos + 1))
 End If
-
+```
 ### 2. Programmatic PivotTable Management
 The core analysis engine relies on the dynamic creation of PivotCaches and Tables, allowing the application to handle varying data sizes without manual adjustment.
 
@@ -37,7 +37,7 @@ The core analysis engine relies on the dynamic creation of PivotCaches and Table
 Set pc = ActiveWorkbook.PivotCaches.Create( _
     SourceType:=xlDatabase, _
     SourceData:=wsDane.ListObjects("TabelaDanych"))
-
+```
 ### 3. Performance Optimization
 To ensure a smooth user experience, the tool utilizes system-level optimizations:
 
