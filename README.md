@@ -11,7 +11,7 @@ The UI was designed to be user-friendly and approachable for non-technical staff
     </td>
     <td width="40%">
       <p align="center"><b>Sample PDF Output</b></p>
-      <img src="assets/sample_raport.png" alt="Sample PNG">
+      <img src="assets/Sample_raport.png" alt="Sample PNG">
     </td>
   </tr>
 </table>
