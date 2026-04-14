@@ -23,6 +23,7 @@ The UI was designed to be user-friendly and approachable for non-technical staff
 * **`/src`** - Full source code.
 * **`/assets`** - Interface screenshots.
 * **`sales_raport_creator.xlsm`** - The main application file.
+* **`data`** - Sample data used to create showcase.
 
 ##  Advanced Logic Applied
 
